@@ -1,7 +1,7 @@
 require "spec_helper"
 
 def introduction(name)
-   puts "Hi, my name if #{name}.\n"
+   puts "Hi, my name is #{name}.\n"
 end
 
 describe "#introduction" do
