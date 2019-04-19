@@ -1,6 +1,6 @@
 require "spec_helper"
 
-def introduction()
+def introduction(name)
 
 end
 
